@@ -37,4 +37,5 @@ async def on_message(message):
 
     if message.content.startswith('Команды'):
         await message.channel.send(f' {message.author.mention} Вечер в хату-поздороваться с ботом, Теорема виетта?-узнать теорему, дискриминант-(самого дискриминанта тут не будет, Зачем детей в подвале расстрелял?-насущный воспрос боту, Формула героина/мефедрона?-осторожней с этим, Ссылки-пост анонимуса')
+        
 client.run('OTIzMjYwOTEyNzU5MTAzNTA4.YcNbug.K-SJO8kqHSshfKI5dXc0-onMK9w')
